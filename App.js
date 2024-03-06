@@ -4,7 +4,7 @@
 * Copyright: 2024, Plesovszki István
 * Group: Szoft II/2/N
 * Date: 2024-03-06
-* Github: https://github.com/janos12345/
+* Github: https://github.com/PlesovszkiIstvan/318_PI
 * Licenc: GNU GPL
 */
 
